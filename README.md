@@ -15,8 +15,8 @@
 1. **Клонируйте репозиторий:**
 
 ```bash
-git clone https://github.com/your-username/route-table-viewer.git
-cd route-table-viewer
+git clone https://github.com/yabersan/sorttable.git
+cd sorttable
 ```
 
 2. **Установите зависимости:**
